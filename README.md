@@ -21,3 +21,5 @@ $ npm run dev
 ### MongoDB
 
 Open "config/keys.js" and add your MongoDB URI, local or Atlas
+
+this is my 1st open source contribution
